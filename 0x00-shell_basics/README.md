@@ -1,1 +1,1 @@
-Welcome
+Bye bye My first directory
